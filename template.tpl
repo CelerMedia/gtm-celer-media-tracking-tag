@@ -1,4 +1,12 @@
-﻿___INFO___
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
 
 {
   "type": "TAG",
@@ -53,8 +61,3 @@ ___NOTES___
 
 Created on 19/4/2025, 4:13:39 p.m.
 
-,
-"terms_of_service": {
-  "url": "https://celermediagroup.com",
-  "text": "By using this tag, you agree to the terms and privacy policy of Celer Media."
-}
