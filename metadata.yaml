@@ -1,0 +1,5 @@
+homepage: "https://celermediagroup.com"
+documentation: "https://celermediagroup.com"
+versions:
+  - sha: TEMPLATE_FILE_SHA
+    changeNotes: Initial release of the Celer Media – Tracking Tag
