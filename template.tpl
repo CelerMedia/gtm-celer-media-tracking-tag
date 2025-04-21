@@ -10,6 +10,7 @@ ___INFO___
 
 {
   "type": "TAG",
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
