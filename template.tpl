@@ -53,8 +53,8 @@ ___NOTES___
 
 Created on 19/4/2025, 4:13:39 p.m.
 
+,
 "terms_of_service": {
-    "url": "https://celermediagroup.com",
-    "text": "By using this tag, you agree to the terms and privacy policy of Celer Media."
-  }
+  "url": "https://celermediagroup.com",
+  "text": "By using this tag, you agree to the terms and privacy policy of Celer Media."
 }
